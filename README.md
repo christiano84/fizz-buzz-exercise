@@ -1,4 +1,4 @@
-FizzBuzz exercise from the bottom of this chapter in the book Eloquent Javascript.
+This is the FizzBuzz exercise from the bottom of the 2nd chapter in the book Eloquent Javascript.
 
 Check my solution by looking at the console of your browser here:
 
